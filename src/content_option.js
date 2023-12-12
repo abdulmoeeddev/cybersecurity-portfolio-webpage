@@ -1,42 +1,32 @@
-const logotext = "{Initials Here}";
+const logotext = "Abdul Moeed Khan";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Abdul Moeed Khan",
+    description: "I'm Abdul Moeed Khan, a technologist and Web Developer.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Abdul Moeed Khan",
     animated: {
         first: "Technologist",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Web Developer",
         fourth: "Programmer",
-        fifth: "Malware Developer",
+        fifth: "Full Stack Developer",
         sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    description: "Full Stack Developer with skills in C#, React, C++.",
+    your_img_url: "https://i.ibb.co/rbnxhdp/pic-3.png",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "Full Stack Developer with skills in C#, React, C++.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
+        jobtitle: ".NET CORE INTERN",
+        where: "VISION PLUS",
         date: "2023",
-    },
-    {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
-    },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
     },
 ];
 
@@ -60,9 +50,9 @@ const skills = [{
         name: "Powershell",
     },
 
-    {
-        name: "Reverse Engineering",
-    },
+    // {
+    //     name: "Reverse Engineering",
+    // },
 
     {
         name: "Web-Exploitation",
@@ -93,51 +83,10 @@ const dataportfolio = [{
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "abdulmoeedkhan@gmail.com",
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,8 +96,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/abdulmoeeddev?tab=repositories",
+    linkedin: "https://www.linkedin.com/in/abdul-moeed-khan-102300196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
 };
 export {
     meta,
